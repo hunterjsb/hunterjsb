@@ -1,4 +1,4 @@
-## hunter
+# hunterjsb
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hunterjsb/hunterjsb/output/github-contribution-grid-snake-dark.svg">
@@ -6,12 +6,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hunterjsb/hunterjsb/output/github-contribution-grid-snake.svg">
 </picture>
 
-> [!NOTE] 
-> Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)  
+> [!NOTE]
+> Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)
 >
 > Latest Project: [Godot](https://hunterjsb/zed-planetscale-mcp)
 
---- 
+---
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
