@@ -9,7 +9,7 @@
 > [!NOTE]
 > Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)
 >
-> Latest Project: [Godot](https://hunterjsb/zed-planetscale-mcp)
+> Latest Project: [Zed PlanetScale MCP](https://hunterjsb/zed-planetscale-mcp)
 
 ---
 <p align="left">
