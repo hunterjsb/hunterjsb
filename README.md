@@ -6,10 +6,10 @@
 
 <br><br>
 
-> [!NOTE] 
+> [!currently] 
 > Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)  
 >
-> Current Interest: [Godot](https://godotengine.org/) Development
+> Latest Project: [Godot](https://hunterjsb/zed-planetscale-mcp)
 
   ### Skills 
 <p align="left">
