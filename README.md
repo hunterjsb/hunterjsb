@@ -6,8 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hunterjsb/hunterjsb/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
-
 > [!NOTE] 
 > Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)  
 >
