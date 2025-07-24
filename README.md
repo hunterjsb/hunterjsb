@@ -7,7 +7,7 @@
 </picture>
 
 > [!NOTE]
-> Working on: [vibe-chuck](https://github.com/we-be/vibe-chuck) & [tiny-ria](https://github.com/hunterjsb/tiny-ria)
+> Working on: [the GPT-20 stock index](https://github.com/hunterjsb/gpt-500) (previously the GPT-500)
 >
 > Latest Project: [Zed PlanetScale MCP](https://hunterjsb/zed-planetscale-mcp)
 
