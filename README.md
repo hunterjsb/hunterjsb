@@ -7,7 +7,7 @@
 </picture>
 
 > [!NOTE]
-> Working on: [the GPT-20 stock index](https://github.com/hunterjsb/gpt-500) (previously the GPT-500)
+> Working on: [Xandaris](https://github.com/hunterjsb/xandaris)
 >
 > Latest Project: [Zed PlanetScale MCP](https://hunterjsb/zed-planetscale-mcp)
 
