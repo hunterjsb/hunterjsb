@@ -9,4 +9,4 @@
 > [!NOTE]
 > zed users should check out my [planetscale mcp](https://zed.dev/extensions/mcp-planetscale#details)
 > 
-> ![dls](https://img.shields.io/badge/downloads-19.1k-orange?logo=zedindustries&logoColor=white)
+> ![dls](https://img.shields.io/badge/downloads-35.1k-orange?logo=zedindustries&logoColor=white)
